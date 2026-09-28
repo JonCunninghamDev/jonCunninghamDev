@@ -18,7 +18,7 @@ The goal is to make the expected engineering behavior part of the development en
 Versioned developer infrastructure for reusable engineering standards, executable repository policy, AI-agent operating contracts, GitHub Actions CI/CD, release governance, and repeatable delivery workflows.
 
 ### [Secure AI Inference Platform](https://github.com/JonCunninghamDev/ai-inference-project)
-Multi-tenant AI inference control plane with admission control, deterministic model routing, dynamic batching, GPU-aware scheduling, circuit breakers, latency-aware routing, reconciliation, audit trails, observability, and **145 tests**.
+Multi-tenant AI inference control plane with admission control, deterministic model routing, dynamic batching, GPU-aware scheduling, circuit breakers, reconciliation, audit trails, observability, a guided browser demo, and **245 passing unit tests**.
 
 ### [Config-Driven Auto Order Intake](https://github.com/JonCunninghamDev/auto-order-intake-pipeline-project)
 Event-driven AWS integration platform built around declarative configuration and 11 stateless processing engines, with replayable state, self-healing, reconciliation, pluggable provider boundaries, and **203 AWS-free tests**.
